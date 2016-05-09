@@ -1,0 +1,8 @@
+= Spark Linear Regression
+Robert Van_Voorhees <rcvanvo@gmail.com>
+
+Sample code using https://spark.apache.org/[Apache Spark] with http://projects.spring.io/spring-hadoop/[Spring for Apache Hadoop].
+
+== License
+
+link:/LICENSE[MIT]
